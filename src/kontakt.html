@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<!--[if lt IE 8 ]><html class="no-js ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="no-js ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 8)|!(IE)]><!-->
+<html class="no-js" lang="sv" xml:lang="sv">
+<!--<![endif]-->
+
+<head>
+
+    <!--- Basic Page Needs
+   ================================================== -->
+    <meta charset="utf-8">
+    <title>Kontakt | Project-H2O</title>
+    <meta name="author" content="Simon Brobäck, medförfattad av Erik Nygren">
+
+    <!-- Mobile Specific Metas
+   ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- CSS
+    ================================================== -->
+    <link rel="stylesheet" href="/css/default.css">
+    <link rel="stylesheet" href="/css/layout.css">
+    <link rel="stylesheet" href="/css/media-queries.css">
+
+    <!-- Script
+   ================================================== -->
+    <script src="js/modernizr.js"></script>
+    <script src="js/main.js"></script>
+
+    <!-- Favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="favicon.ico">
+
+</head>
+<body>
+
+    <!-- Header
+   ================================================== -->
+    <header>
+        <div class="row">
+            <div class="twelve columns">
+                <div class="logo">
+                    <a href="/"><img alt="Logga" src="/res/logo.png"></a>
+                </div>
+
+                <nav id="nav-wrap">
+                    <a class="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
+                    <a class="mobile-btn" href="#" title="Hide navigation">Hide navigation</a>
+                    <ul id="nav" class="nav">
+                        <li><a href="/">Hem.</a></li>
+                        <li>
+                            <a >Projektet.</a>
+                            <ul>
+                                <li><a href="/projektet#bostader">Bostader</a></li>
+                                <li><a href="/projektet#naturen">Naturen</a></li>
+                                <li><a href="/projektet#offentligt">Offentligt</a></li>
+                                <li><a href="/projektet#detaljer">Detaljer</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/omoss">Om oss.</a></li>
+                        <li class="current"><a href="/kontakt">Kontakt.</a></li>
+                    </ul> <!-- end #nav -->
+                </nav> <!-- end #nav-wrap -->
+            </div>
+        </div>
+    </header>
+    <!-- Header End -->
+
+    <!-- Page Title
+   ================================================== -->
+    <div id="page-title">
+        <div class="row">
+            <div class="ten columns centered text-center">
+                <h1>Kontakta oss<span>.</span></h1>
+
+                <p>Vi vill ha en öppen dialog med våra läsare och svarar gärna på klagomål eller förslag. Vårt mål är att engagera människor bli delaktiga i vår vision och vårt projekt. Hoppas du förnimmer känslan av ett nytt Hässelby och att du vill dela den med oss, eller kanske dela denna hemsida, Project-H2O.</p>
+            </div>
+        </div>
+    </div>
+    <!-- Page Title End-->
+
+    <!-- Content
+   ================================================== -->
+    <div class="content-outer">
+        <div id="page-content" class="row page">
+            <div id="primary" class="eight columns">
+                <section>
+                    <h1>Några frågor på det?</h1>
+
+                    <p class="lead">Vi jobbar med att svara på ditt meddelande inom 48 timmar. Tack för att du kontaktar oss och visar intesse för Project-H2O.</p>
+
+                    <p>Kontaktformuläret nedan är tillfälligt avstängt, men det är alltid fritt fram att kontakta oss på email, eller sociala medier! Dessa finns länkade till höger eller längre ner på sidan.</p>
+
+                    <div id="contact-form">
+                        <!-- form -->
+                        <form name="contactForm" id="contactForm" class="disabled" method="post" action="/skicka-mail">
+                            <fieldset>
+                                <div class="half">
+                                    <label for="contactName">Namn <span class="required">*</span>
+                                    </label>
+                                    <input disabled name="contactName" type="text" id="contactName" size="35" value="" />
+                                </div>
+                                <div class="half pull-right">
+                                    <label for="contactEmail">Email <span class="required">*</span>
+                                    </label>
+                                    <input disabled name="contactEmail" type="text" id="contactEmail" size="35" value="" />
+                                </div>
+                                <div>
+                                    <label for="contactSubject">Ämne</label>
+                                    <input disabled name="contactSubject" type="text" id="contactSubject" size="35" value="" />
+                                </div>
+                                <div>
+                                    <label for="contactMessage">Meddelande <span class="required">*</span>
+                                    </label>
+                                    <textarea disabled name="contactMessage" id="contactMessage" rows="15" cols="50"></textarea>
+                                </div>
+                                <div>
+                                    <button disabled class="submit" Value="send">Skicka</button>
+                                    <!--span id="image-loader">
+                                        <img src="/res/loader.gif" alt="" />
+                                    </span-->
+                                </div>
+                            </fieldset>
+                        </form>
+                        <!-- Form End -->
+
+                        <!-- contact-warning -->
+                        <div id="message-warning"></div>
+                        <!-- contact-success -->
+                        <div id="message-success">
+                            <i class="icon-ok"></i>Ditt meddelande har skickats, det kommer nu läsas och reflekteras. Tack!
+                            <br />
+                        </div>
+                    </div>
+                </section>
+                <!-- section end -->
+            </div>
+            <div id="secondary" class="four columns end">
+                <aside id="sidebar">
+                    <div class="widget widget_contact">
+                        <h5>Email och Sociat</h5>
+                        <p>
+                            E-mail: <a href="MAILTO:info@project-h2o.se">info{@}project-h2o.com</a>
+                            <br>Twitter: <a href="https://twitter.com/H2O_sthlm">@H2O_Sthlm</a>
+                            <br>Facebook: <a href="https://www.facebook.com/H2O.stockholm">H2O Stockholm</a>
+                            <br>Google+: <a href="https://plus.google.com/112810321311413261003/posts">Project-H2O</a>
+                        </p>
+                    </div>
+                </aside>
+            </div>
+        </div>
+    </div>
+    <!-- Content End-->
+
+    <!-- footer
+   ================================================== -->
+   <footer>
+
+      <div class="row">
+
+         <div class="twelve columns">
+
+            <ul class="footer-nav">
+                <li><a href="/">Hem.</a></li>
+                <li><a href="/projektet">Projektet.</a></li>
+                <li><a href="/omoss">Om oss.</a></li>
+                <li><a href="/kontakt">Kontakt.</a></li>
+             </ul>
+
+            <ul class="footer-social">
+                <li><a href="https://twitter.com/H2O_sthlm"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="https://plus.google.com/112810321311413261003"><i class="fa fa-google-plus"></i></a></li>
+                <li><a href="https://www.facebook.com/H2O.stockholm"><i class="fa fa-facebook"></i></a></li>
+            </ul>
+
+            <ul class="copyright">
+               <li>Copyright &copy; 2014 Project-H2O</li>
+               <li>Design by <a href="http://www.styleshout.com/">Styleshout</a></li>
+            </ul>
+
+         </div>
+
+         <div id="go-top"><a title="Back to Top" href="#">Go To Top</a></div>
+
+      </div>
+
+   </footer>
+
+    <!-- Footer End-->
+</body>
+</html>

@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+<url>
+    <loc>http://project-h2o.se/</loc>
+    <changefreq>never</changefreq>
+    <priority>1.00</priority>
+    <image:image>
+        <image:title>Logo Project-H2O</image:title>
+        <image:caption>Hässelby TwinTowers Oceanview logga. H2O Logo</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/Parken.jpg</image:loc>
+        <image:geo_location>Hässelby strandbad, Stockholm</image:geo_location>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Bryggan - rendering</image:title>
+        <image:caption>Rendering av hur lägenheterna och bryggan skulle kunna se ut från vattnet</image:caption>
+        <image:loc>http://project-h2o.se/res/sliders/bryggan.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Tornen och Radhusen - rendering</image:title>
+        <image:caption>Rendering av radhus i förgrunden och tornen i bakgrunden</image:caption>
+        <image:loc>http://project-h2o.se/res/sliders/tornen.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/projektet/</loc>
+    <changefreq>never</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+        <image:title>Området - rendering</image:title>
+        <image:caption>Rendering av Hässelby TwinTower Oceanview bostadskomplex</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/Sammanfattning.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Värmeverket</image:title>
+        <image:caption>Rendering av radhus i förgrunden och tornen i bakgrunden</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/Tornen.jpg</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Lägenheterna - rendering</image:title>
+        <image:caption>Bild på lägenheterna och deras dynamiska organiserat oorganiserade fasader</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/L%C3%A4genheterna.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Radhusen - rendering</image:title>
+        <image:caption>Radhus med mycket sjöutsikt</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/Radhusen.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Strandbild</image:title>
+        <image:caption>Bild på den naturliga miljön kring badet som ska värnas</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/Milj%C3%B6n.jpg</image:loc>
+        <image:geo_location>Hässelby strandbad, Stockholm</image:geo_location>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Vatten</image:title>
+        <image:caption>En sommrig bild på vatten - vår inspiration</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/Vattnet.jpg</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Träningscentret - rendering</image:title>
+        <image:caption>För att värna ett aktivt liv utnytjas området till plats för ett badhus, gym och träningslokal</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/Tr%C3%A4ningcentret.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Stranden</image:title>
+        <image:caption>Bild på naturen kring badet</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/Stranden.jpg</image:loc>
+        <image:geo_location>Hässelby strandbad, Stockholm</image:geo_location>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Husgavel - rendering</image:title>
+        <image:caption>Rendering av husgavel med balkonger vinklade mot vattnet</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/Strandpromenaden.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Löv</image:title>
+        <image:caption>Bild från den naturliga parkmiljön kring projekt-H2O området</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/Parken.jpg</image:loc>
+        <image:geo_location>Hässelby strandbad, Stockholm</image:geo_location>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/omoss</loc>
+    <changefreq>never</changefreq>
+    <priority>0.50</priority>
+    <image:image>
+        <image:title>Simon Brobäck</image:title>
+        <image:loc>http://project-h2o.se/res/team/simon.jpg</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Erik Nygren</image:title>
+        <image:loc>http://project-h2o.se/res/team/erik.jpg</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/kontakt</loc>
+    <changefreq>never</changefreq>
+    <priority>0.60</priority>
+</url>
+<url>
+    <loc>http://project-h2o.se/projektet/tornen</loc>
+    <changefreq>never</changefreq>
+    <priority>0.80</priority>
+    <image:image>
+        <image:title>Översikt - Tornen</image:title>
+        <image:caption>Översikt över projektområdet (Project Hässelby TwinTowers Oceanview) där tornen belyses</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/%C3%B6versikt-tornen.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Hässelby TwinTowers från sjön</image:title>
+        <image:caption>Överblick från sjön över konceptet Projekt H2O</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/fr%C3%A5n_sj%C3%B6n.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/projektet/vattnet</loc>
+    <changefreq>never</changefreq>
+    <priority>0.60</priority>
+    <image:image>
+        <image:title>Vatten</image:title>
+        <image:caption>En sommrig bild på vatten - vår inspiration</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/Vattnet.jpg</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Bryggan</image:title>
+        <image:caption>Bryggan där strandpromenaden går i nära kontakt med vattnet</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/bryggan.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/projektet/sammanfattning</loc>
+    <changefreq>never</changefreq>
+    <priority>0.70</priority>
+    <image:image>
+        <image:title>Översikt - project-H2O</image:title>
+        <image:caption>Översikt över projektområdet (Project Hässelby TwinTowers Oceanview)</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/%C3%B6versikt-alla.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Konceptet överblick</image:title>
+        <image:caption>Utsikt från tornen över det mycket unika och vattennära bostadskomplexet</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/strandstaden.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/projektet/milj%C3%B6</loc>
+    <changefreq>never</changefreq>
+    <priority>0.70</priority>
+    <image:image>
+        <image:title>Husen och sjöutsikt</image:title>
+        <image:caption>Den solcellstäckta fasaden samt omgivande grönområden</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/husen+sj%C3%B6utsikt.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Fasanden</image:title>
+        <image:caption>Den intresanta fasaden som blandar fönster med solpaneler och utnytjar alla soltimmar till att försörja de boende med elektricitet</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/fasad+%C3%B6verblick.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/projektet/strandpromenaden</loc>
+    <changefreq>never</changefreq>
+    <priority>0.70</priority>
+    <image:image>
+        <image:title>Översikt - Bryggan</image:title>
+        <image:caption>Översikt över projektområdet (Project Hässelby TwinTowers Oceanview) där bryggan belyses</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/%C3%B6versikt-bryggan.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Bryggan överblick</image:title>
+        <image:caption>Överblick över bryggan med lägenheter och sjönära vandringsled</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/bryggan_%C3%B6vergripande.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/projektet/parken</loc>
+    <changefreq>never</changefreq>
+    <priority>0.60</priority>
+    <image:image>
+        <image:title>Parkbild - stranden</image:title>
+        <image:caption>Den naturliga strandmiljön som ska värnas och användas till fullo</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/strandmilj%C3%B6.JPG</image:loc>
+        <image:geo_location>Hässelby strandbad, Stockholm</image:geo_location>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Strandbadets historiska lämningar</image:title>
+        <image:caption>I vårt koncept vill vi återupliva det gamla strandbadet med hopptorn fontäner och utkiksplattser.</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/trappsteg.JPG</image:loc>
+        <image:geo_location>Hässelby strandbad, Stockholm</image:geo_location>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/projektet/l%C3%A4genheterna</loc>
+    <changefreq>never</changefreq>
+    <priority>0.70</priority>
+    <image:image>
+        <image:title>Översikt - Lägenheterna</image:title>
+        <image:caption>Översikt över projektområdet (Project Hässelby TwinTowers Oceanview) där lägenheterna belyses</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/%C3%B6versikt-l%C3%A4genheterna.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Lägenheterna fasaden</image:title>
+        <image:caption>Bild på den dynamiska fasaden som täcker lägenheterna</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/fasaden.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/projektet/radhusen</loc>
+    <changefreq>never</changefreq>
+    <priority>0.70</priority>
+    <image:image>
+        <image:title>Översikt - Radhusen</image:title>
+        <image:caption>Översikt över projektområdet (Project Hässelby TwinTowers Oceanview) där radhusen belyses</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/%C3%B6versikt-radhusen.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Radhusen - rendering</image:title>
+        <image:caption>De tre typer av hus designade för att få maximal sjöutsikt</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/radhusen.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/projektet/tr%C3%A4ningscentret</loc>
+    <changefreq>never</changefreq>
+    <priority>0.70</priority>
+    <image:image>
+        <image:title>Översikt - Träningscentret</image:title>
+        <image:caption>Översikt över projektområdet (Project Hässelby TwinTowers Oceanview) där träningscentret belyses</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/%C3%B6versikt-radhusen.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+    <image:image>
+        <image:title>Utomhusmiljön med strandpromenaden</image:title>
+        <image:caption>Utomhusmiljön kommer vara perfekt för lek och bus och strandpromenaden finns där för att ta en jogg i solnedgången</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/strandpromenaden-bryggan.png</image:loc>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+<url>
+    <loc>http://project-h2o.se/projektet/parkering</loc>
+    <changefreq>never</changefreq>
+    <priority>0.60</priority>
+    <image:image>
+        <image:title>Bryggan nu</image:title>
+        <image:caption>Bryggan som den ser ut i nuläget. Detta kommer sedemera bli en platts för bad, liv och båtar</image:caption>
+        <image:loc>http://project-h2o.se/res/projektet/beskrivningar/v%C3%A4rmeverket_brygga.jpg</image:loc>
+        <image:geo_location>Hässelby strandbad, Stockholm</image:geo_location>
+        <image:license>http://creativecommons.org/licenses/by-sa/4.0/legalcode</image:license>
+    </image:image>
+</url>
+</urlset>
